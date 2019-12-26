@@ -1,0 +1,138 @@
+video {
+width: 100%;
+height: auto;
+}
+h3 {
+ font-family: cursive;
+ color: darkgoldenrod;
+}
+h2 {
+	color: darkgoldenrod;
+	font-family: monospace;
+}
+h5 {
+color: darkgoldenrod;
+}
+img{
+display:block;
+width:100%;
+height:233px;
+padding-bottom: 20px;
+}
+.bg-img {
+	background-image: url("images/mobile.jpg");
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	}
+	.container content1 {
+	position: absolute;
+	margin: 20px;
+	padding: 16px;
+	}
+	
+	input[ type = text],input[ type = password] {
+	width:300px;
+	padding: 15px;
+    margin-top: 70px;
+    margin-left: 40px;
+	 margin-bottom: 50px;
+
+	border: none;
+	}
+	
+	
+	
+	input[type = text]:focus input[type = password]:focus{
+	background-color: grey;
+	outline: none;
+	}
+	
+	.btn1 {
+	background-color: #c27e43;
+	color: white;
+	padding: 16px 20px;
+	border: none;
+	cursor: pointer;
+	width: 190px;
+	height: 55px;
+	opacity: 0.9;
+	}
+	.btn1:hover {
+	opacity: 1;
+	}
+	.test{
+	background-color:#1b1916;
+	color:#675656;
+	text-align: -webkit-center;
+	}
+	.btn2 {
+	background-color: #3c3a37;
+	color: white;
+	width: 105px;
+	height: 55px;
+	}
+	.container3 {
+	background-image:url("images/computer.jpg");
+    background-repeat:no-repeat;
+	background-size:750px;
+	width:100%;
+	height:500px;
+}
+ 
+ /* .container 3.content {
+  
+    bottom: 0;
+    color: #5f4f4f;
+    width: 400px;
+    padding: 30px;
+ } */
+* {
+  box-sizing: border-box;
+}
+
+.tmt{
+  font-family: Arial;
+  font-size: 17px;
+}
+
+.tmt {
+  position: relative;
+  margin: 0 auto;
+}
+
+.tmt img {vertical-align: middle;}
+
+.tmt .tmtcontent {
+  position: absolute;
+  bottom: 0;
+  color:#1b385a;
+  width: 100%;
+  padding: 20px;
+  padding-bottom:80px;
+}
+
+* {box-sizing: border-box}
+
+.container4 {
+	width : 100%;
+	background-color : lightgrey;
+}
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.design {width: 75%; background-color: #d99355;}
+.Photography {width: 70%; background-color: #d99355;}
+.Webdevelopment {width: 85%; background-color: #d99355;}
+
+
+.new3 {
+	background-color : #989292;
+		color:white;
+		height: 390px;
+}
+	
